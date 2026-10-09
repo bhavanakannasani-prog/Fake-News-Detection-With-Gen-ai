@@ -1,0 +1,5 @@
+Flask
+playwright
+transformers
+torch
+google-genai
